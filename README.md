@@ -13,7 +13,7 @@ The goal of the project is to model a simplified STN–GPe network using the NES
 │
 ├── modelling_project_task.pdf   # Original assignment description
 │
-├── Controlling_oscillations_in_Parkinsons_disease.pdf   # Final written report
+├── Solution.pdf   # Final written report
 │
 └── README.md 
 ```
